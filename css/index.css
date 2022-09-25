@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+div {
+    position: center;
+    width: 1920px;
+    height: 1080px;
+
+}
+canvas {
+    margin-left: 500px;
+    margin-top: 80px;
+    border: 8px ridge saddlebrown;
+    filter: drop-shadow(8px 8px 4px black)
+}
